@@ -24,6 +24,9 @@ The questions aswered were:
 3. How much price fluctuation is observed between weekends and weekdays?
 4. What would be the best Machine Learning technique to predict price?
 
+### Dataset
+Source - Kaggle
+[Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
 
 ### Key Findings:
 1. Prices for AirBNB are motivated by neighbourhood in Seattle, with pockets of high and low prices
