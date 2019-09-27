@@ -26,6 +26,7 @@ The questions aswered were:
 
 ### Dataset
 Source - Kaggle
+
 [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
 
 ### Key Findings:
