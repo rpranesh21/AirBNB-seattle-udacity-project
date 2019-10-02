@@ -29,6 +29,10 @@ Source - Kaggle
 
 [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
 
+### Blogpost
+
+Posted on [Medium](https://medium.com/@sudeeplaha/understanding-airbnb-pricing-in-seattle-area-1c20d0056991)
+
 ### Key Findings:
 1. Prices for AirBNB are motivated by neighbourhood in Seattle, with pockets of high and low prices
 2. Summers in Seattle is the best time to travel, and May to July observed highest peaks and highest pricing
